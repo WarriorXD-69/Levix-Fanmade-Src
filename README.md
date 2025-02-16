@@ -2,6 +2,8 @@
 A fanmade source Code of Levix Antinuke Bot , No Hate to Developers
 - Emoji Server - [Levix Emoji Server](https://discord.gg/uyBCMZYr84)
 
+![Image](https://github.com/user-attachments/assets/6c3d5ce1-b363-4850-b54c-c3276df8a79e)
+
 ## Credits 
 - Discord - **.w4rri0r.#0000**
 - Server - [𓆩MƲLTIVΞⴽSΣ ⴽΞSIƊΞNCY𓆪](https://discord.gg/mrontop)
