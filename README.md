@@ -8,7 +8,7 @@ A fanmade source Code of Levix Antinuke Bot , No Hate to Developers
 - Instagram - [ofc.warri0r](https://www.instagram.com/ofc.warri0r)
 - Youtube - [Warrior <$](https://www.youtube.com/@Warriorjija)
 
-<p align="left">
+<p align="center">
   <i>Socials</i>
   <br>
   <a href="https://discord.gg/mrontop"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white"></a>
